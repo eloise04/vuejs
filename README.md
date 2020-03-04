@@ -1,32 +1,36 @@
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Projet en React JS - Dashboard
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Pour pouvoir se connecter au Dahboard :
 
-### Run your tests
-```
-npm run test
-```
+N'importe quel identifiant suffit pour l'instant
 
-### Lints and fixes files
-```
-npm run lint
-```
+Captures d'écran 
 
-### Run your unit tests
-```
-npm run test:unit
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Inscription :
+
+![picture](captureecran/inscription.png)
+
+
+
+Dashboard :
+
+![picture](captureecran/dashboard.png)
+
+
+Login :
+
+![picture](captureecran/login.png)
+
+
+
+Profil :
+
+![picture](captureecran/profil.png)
+
+
+Statistique :
+
+![picture](captureecran/stat.png)
