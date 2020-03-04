@@ -165,7 +165,6 @@ export default {
   },
   methods: {
     submit() {
-      console.log("test")
       if (this.email != this.confirm_mail) {
                 this.error = "Les emails ne correspondent pas"
         this.$bvModal.show("my-modal")
