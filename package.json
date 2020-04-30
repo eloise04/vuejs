@@ -15,7 +15,7 @@
     "bootstrap-vue": "^2.0.0-rc.28",
     "chart.js": "^2.9.3",
     "core-js": "^2.6.5",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "leaflet": "^1.5.1",
     "moment": "^2.24.0",
     "nuxt-leaflet": "0.0.19",
